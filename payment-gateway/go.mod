@@ -1,4 +1,4 @@
-module github.com/jefflssantos/imersao-gateway
+module github.com/jefflssantos/imersao/gateway
 
 go 1.17
 
